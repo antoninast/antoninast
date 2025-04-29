@@ -1,10 +1,11 @@
-### Hi there, I'm Antonina 👋
 
-🚀 Ready for my next challenge — open to roles in full-stack or front-end development.
+## 👋 Hi there, I'm Antonina!
+
+### 🔍 Actively looking for a role in front-end or full-stack development.
 
 <br />
 
-### 🧩 About Me
+### About Me
 **🎯 Software developer** with 3+ years of experience building high-performance front-end and full-stack applications.
 
 **🛠 Focused on** code quality, reusability, and scalability.
@@ -15,7 +16,7 @@
 
 <br />
 
-### 🔧 Technologies & Tools
+### Technologies & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo" title="Angular" />
@@ -55,7 +56,7 @@
 
 <br />
 
-### 📫 How to reach me
+### How to reach me
 
 <div align="left">
   <p href="https://www.linkedin.com/in/antoninast/" title="LinkedIn - Antonina Stancheva" target="_blank"><img height="30" align="center" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/> Antonina Stancheva</p>
