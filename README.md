@@ -1,12 +1,12 @@
 
-## 👋 Hi there, I'm Antonina!
+## 👋 Hi, I'm Antonina!
 
 ### 🔍 Actively looking for a role in front-end or full-stack development.
 
 <br />
 
 ### About Me
-**🎯 Software developer** with 3+ years of experience building high-performance front-end and full-stack applications.
+**🎯 Software developer** with 4 years of experience building high-performance front-end and full-stack applications.
 
 **🛠 Focused on** code quality, reusability, and scalability.
 
