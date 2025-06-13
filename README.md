@@ -1,8 +1,6 @@
 
 ## 👋 Hi, I'm Antonina!
 
-### 🔍 Actively looking for a role in front-end or full-stack development.
-
 <br />
 
 ### About Me
